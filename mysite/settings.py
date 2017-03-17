@@ -25,7 +25,9 @@ SECRET_KEY = '2o_#aumnchje^u84*(oz40qne_v4uyg53cbjg)^@6kyki2vtnw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'fredugnomevm'
+]
 
 
 # Application definition
